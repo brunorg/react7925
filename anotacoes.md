@@ -92,6 +92,10 @@ Array.prototype.map = function(funcao) {
     - https://www.npmjs.com/package/uuid
 - Se não for ter itens dinamicos, usa o próprio index do map()
 
+OBS: Usar a lib no Ember JS é difícil e nada trivial
+(https://simplabs.com/blog/2017/02/13/npm-libs-in-ember-cli.html)
+
+
 ## Libs uteis
 - https://sweetalert2.github.io/
 - https://hipsters.tech/tecnologias-no-nubank-hipsters-01/
